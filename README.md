@@ -18,7 +18,11 @@ pip install -r requirements.txt
 Then,
 
 ```sh
+# CPU
 python train.py
+
+# GPU
+THEANO_FLAGS=device=gpu,floatX=float32 python train.py
 ```
 
 ## TODO
