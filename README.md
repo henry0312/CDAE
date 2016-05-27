@@ -9,6 +9,14 @@ Implementation of [Collaborative Denoising Auto-Encoder (CDAE)](http://yaowu.co/
 
 ## Usage
 
+First, install libraries:
+
+```sh
+pip install -r requirements.txt
+```
+
+Then,
+
 ```sh
 python train.py
 ```
