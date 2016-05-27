@@ -13,6 +13,11 @@ Implementation of [Collaborative Denoising Auto-Encoder (CDAE)](http://yaowu.co/
 python train.py
 ```
 
+## TODO
+
+- [ ] implement negative sampling
+- [ ] change the way of init
+
 ## Licence
 
 MIT License
